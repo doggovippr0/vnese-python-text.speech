@@ -109,10 +109,6 @@ while True:
         engine.say(brain)
         engine.runAndWait()
         break
-    elif "cu" in yourvoice:
-        engine.say("Địt mẹ mày chửi thề với bố mày à! Cút!")
-        engine.runAndWait()
-        break
     elif "hãy chỉ" in yourvoice or "cho tôi biết" in yourvoice:
         tell_me_about()
     else: 
