@@ -1,2 +1,3 @@
 # vnese-python-text.speech
 đọc chữ tiếng việt, search thông tin từ wiki và đọc,...
+# Lưu ý: File reg giọng Microsoft An của Windows 10 trở lên.
